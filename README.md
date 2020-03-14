@@ -1,2 +1,2 @@
 # sapnameena.in
-Official ReCoal website https://sapnameena.in
+website http://sapnameena.in
