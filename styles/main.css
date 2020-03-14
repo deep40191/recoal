@@ -1,10 +1,10 @@
 #intro {
-  background: url("../img/panorama-3094696_1920.jpg") no-repeat center center;
-  background-size:  990px 990px;
+  background: url("../img/panorama.jpg") no-repeat center center;
+  background-size: cover;
 }
 
 .top-nav-collapse {
-  background-color: #000000 !important;
+  background-color: #3949ab !important;
 }
 
 .navbar:not(.top-nav-collapse) {
@@ -13,18 +13,18 @@
 
 @media (max-width: 768px) {
   .navbar:not(.top-nav-collapse) {
-    background: #000000 !important;
+    background: #3949ab !important;
   }
 }
 
 #intro .h6 {
   font-weight: 300;
-  line-height: 2.0;
+  line-height: 1.7;
 }
 
 .hm-gradient .full-bg-img {
-  background: rgba(0, 1, 0, 0.7);
-  background: linear-gradient(45deg, rgba(0, 0, 0, 0.7), rgba(185, 185, 185, 0.7) 100%);
+  background: rgba(42, 27, 161, 0.7);
+  background: linear-gradient(45deg, rgba(42, 27, 161, 0.7), rgba(29, 210, 177, 0.7) 100%);
 }
 
 @media (max-width: 450px) {
